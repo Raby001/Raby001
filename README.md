@@ -27,32 +27,73 @@
 
 <div align="center">
 
-```yaml id="6pjrmy"
-Name: HAN Raby
-Role: Software Developer
-Location: Cambodia
-
-Education:
-  - Institute of Technology of Cambodia (ITC)
-  - Western University
-
-Current Focus:
-  - Full Stack Development
-  - Backend Engineering
-  - DevOps & Kubernetes
-  - System Design
-  - Scalable Architecture
-
-Passion:
-  - Building modern applications
-  - Accessibility-first UI/UX
-  - Learning new technologies
-  - Solving real-world problems
-````
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=800&lines=Passionate+Full+Stack+Developer;Backend+Engineering+Enthusiast;Building+Modern+%26+Scalable+Applications;Always+Learning+New+Technologies" />
 
 </div>
 
----
+<br/>
+
+Name: HAN Raby
+Role: Full Stack Software Developer
+Location: Cambodia
+
+Focus:
+  - Scalable Backend Systems
+  - Modern Frontend Development
+  - Accessibility-First Applications
+  - System Architecture
+
+Current Stack:
+  - Next.js
+  - NestJS
+  - Spring Boot
+  - PostgreSQL
+  - TypeScript
+
+Currently Learning:
+  - Kubernetes
+  - DevOps
+  - Cloud Infrastructure
+  - Scalable System Design
+
+Strengths:
+  - Problem Solving
+  - Fast Learner
+  - Team Collaboration
+  - Clean UI/UX Design
+
+Goal:
+  Building impactful software that solves
+  real-world problems with modern technology.
+
+<br/>
+
+<div align="center">
+
+### ⚡ Developer Philosophy
+
+> “Great software is not just about writing code.
+> It’s about building solutions that people can rely on.”
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=nextjs,nestjs,spring,postgres,docker,kubernetes" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Raby001&theme=github_dark"/>
+
+</div>
+
+
 
 # 🌐 Connect With Me
 
@@ -294,28 +335,6 @@ Next.js • TailwindCSS • Framer Motion
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raby001&theme=radical&hide_border=true&background=0D1117&ring=ffd700&fire=ff7300&currStreakLabel=ffd700"/>
 
 </div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-![snake gif](https://github.com/Raby001/Raby001/blob/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Raby001&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15"/>
-
-</div>
-
----
 
 # 🔥 Contribution Activity
 

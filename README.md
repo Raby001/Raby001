@@ -232,27 +232,6 @@ Next.js • TailwindCSS • Framer Motion
 
 </div>
 
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-![snake gif](https://github.com/Raby001/Raby001/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Raby001&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
-
-</div>
-
----
 
 # ☕ Support Me
 

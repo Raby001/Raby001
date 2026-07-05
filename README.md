@@ -200,7 +200,7 @@ Accessibility-first emergency assistance platform designed for rapid response an
 
 ### 🛠 Stack
 
-React Native • NestJS • PostgreSQL
+Flutter • NestJS • PostgreSQL
 
 </td>
 
@@ -325,10 +325,6 @@ Next.js • TailwindCSS • Framer Motion
 # 📊 GitHub Analytics
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Raby001&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ffd700&icon_color=ff7300"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raby001&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ffd700"/>
 
 <br/><br/>
 
